@@ -14,7 +14,7 @@ public class postSecondayProgram {
 
     String finalCredential;
 
-    //Constructor
+    //Constructo
 
     postSecondayProgram(String newName, String newLocation,String newInstitution,String newFinalCredential){}
 
